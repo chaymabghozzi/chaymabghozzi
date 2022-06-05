@@ -50,25 +50,11 @@
    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   &emsp;
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
+   </p>
 ## 🌱 My Contributions So Far!
 <p align="center">
 <img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-
- &nbsp;
+	
 	<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaymabghozzi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
-<!--
-**chaymabghozzi/chaymabghozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
