@@ -52,10 +52,11 @@
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 ### 🌱 My Contributions So Far!
+<p align="center">
 ![github stats](https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true)
 
  &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=worldroot&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaymabghozzi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
 <!--
 **chaymabghozzi/chaymabghozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
