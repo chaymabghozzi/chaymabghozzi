@@ -4,7 +4,8 @@
   
  ## Welcome to my Github Profile! 😄
  
- I'm a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana )
+<p align="center"> I'm a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana ) 
+ 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -21,13 +22,10 @@
   &emsp;
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-    <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
+
   &emsp;
-  <a href="https://www.python.net/">
-    <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-%23777BB4.svg?logo=php&logoColor=white"/>
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%23777BB4.svg?logo=python&logoColor=white"/>
   </a>
 </p>
 
