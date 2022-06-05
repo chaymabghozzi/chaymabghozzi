@@ -4,7 +4,7 @@
   
  ## Welcome to my Github Profile! 😄
  
-<p align="center"> I'm a software engineering student at the Higher Institute of Informatics Ariana ( ISI Ariana ) 
+<p align="center"> I'm a software engineering student at the Higher Institute of Informatics Ariana |ISI Ariana 
  
 ## 🛠️ My Skills
 
