@@ -53,7 +53,7 @@
 
 ### 🌱 My Contributions So Far!
 <p align="center">
-![github stats](https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 
  &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaymabghozzi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
