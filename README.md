@@ -51,6 +51,7 @@
   &emsp;
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
    </p>
+   
 ## 🌱 My Contributions So Far!
 <p align="center">
 <img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
@@ -58,5 +59,11 @@
 	<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaymabghozzi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
 </p>
-		
 
+## 📫 Social Accounts
+<a href="chaima.benghozzi@etudiant-isi.utm.tn">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/chayma-ben-ghozzi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.facebook.com/chaymabenghozzi">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://twitter.com/GhozziChayma">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://github.com/chaymabghozzi">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>	
+<a href="https://gitlab.com/Chayma.Ben.Ghozzi">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
