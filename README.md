@@ -53,6 +53,9 @@
 
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true)
+
+ &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=worldroot&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
 <!--
 **chaymabghozzi/chaymabghozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
