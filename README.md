@@ -1,4 +1,4 @@
- ##👋 Hi! I'm Chayma!
+ 👋 ##Hi! I'm Chayma!
 
  Welcome to my Github Profile!
 
