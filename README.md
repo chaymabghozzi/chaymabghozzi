@@ -36,23 +36,21 @@
   &emsp;
 	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
    &emsp;
-  
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
    &emsp;
-  
-    <img alt="AngularJs" src="https://img.shields.io/badge/Angular-%23E34F26.svg?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 </p>
 
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   &emsp;
-    <a href="https://www.mongosb.org/"><img alt="MongoDB" src ="https://img.shields.io/badge/mongodb-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 ### 🌱 My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true)
