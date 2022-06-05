@@ -1,4 +1,6 @@
-### Hi there 👋
+ 👋 Hi! I'm Chayma!
+
+Welcome to my Github Profile!
 
 <!--
 **chaymabghozzi/chaymabghozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
