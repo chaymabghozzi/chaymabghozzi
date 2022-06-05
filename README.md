@@ -28,7 +28,7 @@
    &emsp;
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 	   &emsp;
-  <https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 </p>
 
