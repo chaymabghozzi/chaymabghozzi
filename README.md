@@ -61,7 +61,7 @@
 </p>
 
 ## 📫 Social Accounts
-<a href="chaima.benghozzi@etudiant-isi.utm.tn">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="chaima.benghozzi@etudiant-isi.utm.tn">![ConnectWith@etudiant-isi.utm.tn]![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://www.linkedin.com/in/chayma-ben-ghozzi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/chaymabenghozzi">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="https://twitter.com/GhozziChayma">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
