@@ -55,7 +55,7 @@
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
    </p>
    
-## 🌱 My Contributions So Far!
+## 🌱 Github Stats
 <p align="center">
 <img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 	</p>
