@@ -57,7 +57,7 @@
    
 ## 🌱 Github Stats
 <p align="center">
-<img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzzi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+<img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 	</p>
 	<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaymabghozzi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaymabghozzi" height="192px"/>
