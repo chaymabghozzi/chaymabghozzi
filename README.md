@@ -7,7 +7,7 @@
 <p align="center"> I'm a software engineering student at the Higher Institute of Computer Science | ISI Ariana 
 <div style="width:60px ; height:60px">
  ![frame](https://user-images.githubusercontent.com/52894726/174127364-2833870f-f844-41d4-b426-4db2599cd021.png)
-	<div>
+
 
 ## 🛠️ My Skills
 
