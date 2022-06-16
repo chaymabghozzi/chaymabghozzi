@@ -5,10 +5,9 @@
  ## Welcome to my Github Profile! 😄
  
 <p align="center"> I'm a software engineering student at the Higher Institute of Computer Science | ISI Ariana 
-<div style="width:60px ; height:60px">
-![frame](https://user-images.githubusercontent.com/52894726/174124479-0d28213f-9b2c-442e-a052-91b6863cafa8.png)
-</div>
- 
+
+ ![frame](https://user-images.githubusercontent.com/52894726/174127364-2833870f-f844-41d4-b426-4db2599cd021.png)
+
 ## 🛠️ My Skills
 
 ###  Programming languages
