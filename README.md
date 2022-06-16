@@ -6,7 +6,8 @@
  
 <p align="center"> I'm a software engineering student at the Higher Institute of Computer Science | ISI Ariana 
 	
-![frame](https://user-images.githubusercontent.com/52894726/174123812-83ec1cc4-050f-468f-8d5d-309394af8fa7.png | width=100)
+![frame](https://user-images.githubusercontent.com/52894726/174124479-0d28213f-9b2c-442e-a052-91b6863cafa8.png)
+
  
 ## 🛠️ My Skills
 
