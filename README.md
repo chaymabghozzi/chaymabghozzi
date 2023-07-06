@@ -3,8 +3,9 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=chaymabghozzi&label=Profile%20views&color=0e75b6&style=plastic" alt="chaymabghozzi" /> </p>
   
  ## Welcome to my Github Profile! 😄
- 
-<p align="center"> Currently, I am a software engineer specializing in software development engineering 💻, graduated from  the Higher Institute of Computer Science | ISI Ariana 👩‍🎓. I am passionate about innovation 💡 and new technologies 🚀 and have a particular interest in stimulating challenges. I constantly strive to improve my skills 📈 and enrich my experience in this constantly evolving field 🎯.
+
+
+Currently, I am a software development engineer specializing in software engineering 💻, graduated from the Institute of Computer Science | ISI Ariana 👩‍🎓. I am passionate about innovation 💡 and new technologies 🚀, and I have a particular interest in challenging projects. I constantly strive to improve my skills 📈 and enrich my experience in this ever-evolving field 🎯.
 	
 ## 🛠️ My Skills
 
