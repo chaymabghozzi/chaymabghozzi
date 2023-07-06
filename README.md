@@ -5,7 +5,7 @@
  ## Welcome to my Github Profile! 😄
 
 
-Currently, I am a software development engineer specializing in software engineering 💻, graduated from the Institute of Computer Science | ISI Ariana 👩‍🎓. I am passionate about innovation 💡 and new technologies 🚀, and I have a particular interest in challenging projects. I constantly strive to improve my skills 📈 and enrich my experience in this ever-evolving field 🎯.
+Currently, I am a software development engineer specializing in software engineering 💻, graduated from the Higher Institute of Computer Science | ISI Ariana 👩‍🎓. I am passionate about innovation 💡 and new technologies 🚀, and I have a particular interest in challenging projects. I constantly strive to improve my skills 📈 and enrich my experience in this ever-evolving field 🎯.
 	
 ## 🛠️ My Skills
 
