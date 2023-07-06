@@ -4,9 +4,8 @@
   
  ## Welcome to my Github Profile! 😄
  
-<p align="center"> I'm a software engineering student at the Higher Institute of Computer Science | ISI Ariana
+<p align="center"> Currently, I am a software engineer specializing in software development engineering 💻, graduated from  the Higher Institute of Computer Science | ISI Ariana 👩‍🎓. I am passionate about innovation 💡 and new technologies 🚀 and have a particular interest in stimulating challenges. I constantly strive to improve my skills 📈 and enrich my experience in this constantly evolving field 🎯.
 	
-
 ## 🛠️ My Skills
 
 ###  Programming languages
