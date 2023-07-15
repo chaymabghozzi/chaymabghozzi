@@ -57,7 +57,13 @@ Currently, I am a software development engineer specializing in software enginee
    &emsp;
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
    </p>
-   
+###  Data analysis and management tools
+<p align="left">
+  &emsp;
+   <img src="https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white"/></a>
+  
+   </p>
+
 ## 🌱 Github Stats
 <p align="center">
 <img alt="chaymabghozzi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaymabghozzi&show_icons=true&count_private=true&theme=algolia" height="192px"/>
