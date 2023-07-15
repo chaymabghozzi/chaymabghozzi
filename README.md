@@ -30,7 +30,8 @@ Currently, I am a software development engineer specializing in software enginee
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 	   &emsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
+	   &emsp;
+  <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
 </p>
 
 ###  Frontend Development
@@ -57,10 +58,11 @@ Currently, I am a software development engineer specializing in software enginee
    &emsp;
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
    </p>
+   
 ###  Data analysis and management tools
 <p align="left">
   &emsp;
-   <img src="https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/></a>
   
    </p>
 
